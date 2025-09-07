@@ -2,7 +2,7 @@
 
 this is a one of my first games and it is about you/the player on another planet and you have to mine for ores and get bacck too your bace before you run out of o2 and be carful if dont get enogh ore then you cant get back in. and its open source so feel free to make mods and expect lots of bugs i have no idea if i will add updates .
 
-its a cozy mining game hopfally you will have fun. The graphics are 8-bit vibrant and colorful cozy aiien. 
+its a cozy mining game hopefully you will have fun. The graphics are 8-bit vibrant and colorful cozy alien vibe. 
 
 
 ## Getting Started
